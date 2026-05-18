@@ -24,16 +24,16 @@ Features
  Project Structure
 
 medicine-reminder-system/
-?
-??? main.c # Main program logic
-??? lcd.c # LCD interfacing functions
-??? lcd.h
-??? rtc.c # RTC configuration and time handling
-??? rtc.h
-??? interrupt.c # External interrupt handling
-??? buzzer.c # Buzzer control logic
-??? keypad.c # Keypad input handling (if used)
-??? README.md
+
+main.c # Main program logic
+lcd.c # LCD interfacing functions
+lcd.h
+rtc.c # RTC configuration and time handling
+rtc.h
+interrupt.c # External interrupt handling
+buzzer.c # Buzzer control logic
+keypad.c # Keypad input handling (if used)
+README.md
 
  Working
 
